@@ -1,0 +1,7 @@
+#new
+init this
+let that
+if()
+{
+  return +that + "other";
+}
